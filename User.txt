@@ -1,0 +1,9 @@
+Admin
+username : nandagendhos@gmail.com
+password : nanda123
+
+Kasir
+username : underground@gmail.com
+password : under123
+
+Atau bisa lihat di database tb_user
